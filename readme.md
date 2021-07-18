@@ -1,3 +1,3 @@
 # first github file
 
-I am very excited~!
+I am very excited!
